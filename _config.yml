@@ -1,7 +1,8 @@
 layout_spectrum: 0.9685445
+typography_spectrum: 0.3234043
 color:
-  saturation: 0.5744681
-  lightness: 1
+  saturation: 0.7106383
+  lightness: 0.6978723
   brandStrength: 1
   brandColors:
     - '#FBF7EC'
@@ -9,6 +10,5 @@ color:
     - '#CED9EC'
     - '#797873'
     - '#ACA9A2'
-  rhythmicContrast: 1
-typography_spectrum: 0.3234043
+  rhythmicContrast: 0.7723404
 name: Huis
