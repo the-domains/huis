@@ -1,14 +1,28 @@
-layout_spectrum: 0.5234042
-typography_spectrum: 0.3234043
-color:
-  saturation: 0
-  lightness: 0.6978723
-  brandStrength: 0.4085106
-  brandColors:
-    - '#FBF7EC'
-    - '#3D362E'
-    - '#CED9EC'
-    - '#797873'
-    - '#ACA9A2'
-  rhythmicContrast: 0.7723404
 name: Huis
+favicon: null
+layout_spectrum: 0.24847
+typography_spectrum: 0.61721
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#0e0d0b'
+    - '#38404b'
+    - '#fffffd'
+    - '#e3b371'
+    - '#ba783b'
+  brandStrength: 0.25
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
+purpose: []
